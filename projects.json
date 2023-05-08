@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://angelaolovson.github.io/Tamapotchi/",
+      "git": "https://github.com/angelaolovson/Tamapotchi",
+      "image": "https://res.cloudinary.com/dlxrcak5o/image/upload/v1683571514/Portfolio%20Lab/project1-pic_qhi9bj.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://beerfridge.onrender.com/beers",
+      "git": "https://github.com/angelaolovson/BeerFridge",
+      "image": "https://res.cloudinary.com/dlxrcak5o/image/upload/v1683571514/Portfolio%20Lab/project2-pic_oatte2.png"
+    }
+  ]
