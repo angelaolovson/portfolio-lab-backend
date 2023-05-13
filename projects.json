@@ -1,14 +1,16 @@
 [
     {
-      "name": "project1",
+      "name": "TAMAPOTCHI",
       "live": "https://angelaolovson.github.io/Tamapotchi/",
       "git": "https://github.com/angelaolovson/Tamapotchi",
-      "image": "https://res.cloudinary.com/dlxrcak5o/image/upload/v1683571514/Portfolio%20Lab/project1-pic_qhi9bj.png"
+      "image": "https://res.cloudinary.com/dlxrcak5o/image/upload/v1683571514/Portfolio%20Lab/project1-pic_qhi9bj.png",
+      "notes": "Tamapotchi is a plant version Tamagotchi game built using JS, HTML, and CSS. Users can plant, take care of, and watch their flower grow, while avoiding over-watering, over-fertilizing, pesticide overuse, and inadequate sunlight to prevent it from dying."
     },
     {
-      "name": "project2",
+      "name": "BEER FRIDGE",
       "live": "https://beerfridge.onrender.com/beers",
       "git": "https://github.com/angelaolovson/BeerFridge",
-      "image": "https://res.cloudinary.com/dlxrcak5o/image/upload/v1683571514/Portfolio%20Lab/project2-pic_oatte2.png"
+      "image": "https://res.cloudinary.com/dlxrcak5o/image/upload/v1683571514/Portfolio%20Lab/project2-pic_oatte2.png",
+      "notes":"Beer fridge is a CRUD app built with JS, Express, Node, MongoDB, Mongoose, EJS, and CSS. Users can view, add, edit, and delete beers, as well as move them around for fun."
     }
   ]
